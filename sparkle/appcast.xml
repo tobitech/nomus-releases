@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nomus</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Mon, 18 May 2026 18:20:50 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tobitech/nomus-releases/releases/download/Nomus-0.0.1-1.zip" length="180398191" type="application/octet-stream" sparkle:edSignature="pf1rwCZG/AfiVM7jwrJOb2L8LwBxRB3pWd+V0o91s1bHBbzxyczbomrxMbk/jMK+VHrGpO1DvU189jM/kz1XAQ=="/>
+        </item>
+    </channel>
+</rss>
