@@ -3,12 +3,12 @@
     <channel>
         <title>Nomus</title>
         <item>
-            <title>0.0.1</title>
-            <pubDate>Mon, 18 May 2026 18:38:56 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <title>0.0.2</title>
+            <pubDate>Tue, 26 May 2026 01:27:14 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tobitech/nomus-releases/releases/download/v0.0.1/Nomus-0.0.1-1.zip" length="181387694" type="application/octet-stream" sparkle:edSignature="pHMcSBGj/PU2yeWp2cakw0+NDbgK89uRNHBZu18kjTk+ZExu3VV0JYx9/11ZQhOJonH7vKHm9AkmdkWq5KfBBg=="/>
+            <enclosure url="https://github.com/tobitech/nomus-releases/releases/download/v0.0.2/Nomus-0.0.2-2.zip" length="183363461" type="application/octet-stream" sparkle:edSignature="SJT/UXK0kibtwNaAxHPa9ZUBgipAk4XbKphEJ4+WdwWBmZvTkDyfjRu65LvZI5BKVrs3kvQU8bkZ2FVBWck/Dg=="/>
         </item>
     </channel>
 </rss>
